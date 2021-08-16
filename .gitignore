@@ -1,2 +1,3 @@
-session.data.json
-config.js
+Configuraciones/
+node_modules/
+tokens/
